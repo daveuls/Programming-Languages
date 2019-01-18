@@ -2,6 +2,7 @@
 //           Name: Ulikowski, David
 //     Assignment: Exercise I2
 //          Part2:
+//      Java exercise to get employee information and compute gross pay, net pay, and tax deduction
 
 import java.util.Scanner;
 
